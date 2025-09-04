@@ -4,11 +4,11 @@
 ✍️ Entrega - App Android en **Kotlin** que consume la **PokéAPI** para mostrar Pokémon con Jetpack Compose.
 
 ## 🛠️ Tecnologías
-![Kotlin](https://img.shields.io/badge/Kotlin-1.9-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-Compose-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-2.9-009688?style=for-the-badge)
-![Gson](https://img.shields.io/badge/Gson-JSON-orange?style=for-the-badge)
-![Coil](https://img.shields.io/badge/Coil-Image%20Loader-blueviolet?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
+![Gson](https://img.shields.io/badge/Gson-F9A825?style=for-the-badge)
+![Coil](https://img.shields.io/badge/Coil-7E57C2?style=for-the-badge)
 
 ## ⚙️ Funcionalidad
 - **Lista de Pokémon** obtenida desde la PokéAPI con filtro de búsqueda.  
